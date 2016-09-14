@@ -88,10 +88,3 @@ local user = twitter:post_status({
 })
 ```
 
-# Contact
-
-Author: Leaf Corcoran (leafo) ([@moonscript](http://twitter.com/moonscript))  
-Email: leafot@gmail.com  
-Homepage: <http://leafo.net>  
-License: MIT  
-
